@@ -1,0 +1,12 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore build directories
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.zip
+
